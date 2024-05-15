@@ -35,4 +35,3 @@ def roll_dice():
 button=tk.Button(window,text="Roll",bg="green",fg="black",command=roll_dice)
 button.place(x=230,y=0)
 
-window.mainloop()
